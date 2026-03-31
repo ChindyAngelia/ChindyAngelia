@@ -9,7 +9,7 @@ Saya adalah seorang kreatif yang berfokus pada penggabungan estetika visual deng
 - 💻 Saat ini sedang mendalami Desain Web Responsif.
 - 🎨 Memiliki minat khusus pada estetika fotografi urban.
 - 🕹️ Pernah mengerjakan konsep visual dan alur permainan untuk proyek game Brick Breaker.
-- 📊 Berpengalaman dalam merancang ERD (Entity Relationship Diagram)** dan struktur tabel SQL.
+- 📊 Berpengalaman dalam merancang ERD (Entity Relationship Diagram) dan struktur tabel SQL.
 
 🛠️ Keahlian & Alat
 - Design: Wireframing (8-column grid), Storyboarding, UI/UX Design.
