@@ -1,16 +1,23 @@
-## Hi there 👋
+Halo, Saya Chindy Angelia 👋
 
-<!--
-**ChindyAngelia/ChindyAngelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desainer Grafis & Web 
+Saya adalah seorang kreatif yang berfokus pada penggabungan estetika visual dengan fungsionalitas teknis. Saya memiliki ketertarikan kuat dalam membangun struktur data yang efisien dan desain antarmuka yang intuitif.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Tentang Saya
+- 💻 Saat ini sedang mendalami Desain Web Responsif.
+- 🎨 Memiliki minat khusus pada estetika fotografi urban.
+- 🕹️ Pernah mengerjakan konsep visual dan alur permainan untuk proyek game Brick Breaker.
+- 📊 Berpengalaman dalam merancang ERD (Entity Relationship Diagram)** dan struktur tabel SQL.
+
+🛠️ Keahlian & Alat
+- Design: Wireframing (8-column grid), Storyboarding, UI/UX Design.
+- Database: MySQL / PostgreSQL (Query optimization & Schema design).
+- Tools: Figma, Git, Visual Studio Code.
+
+📈 Statistik GitHub
+https://github.com/ChindyAngelia/ChindyAngelia/edit/main/README.md
+
+
+
